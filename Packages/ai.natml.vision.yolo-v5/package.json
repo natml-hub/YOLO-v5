@@ -1,0 +1,25 @@
+{
+    "name": "ai.natml.vision.yolo-v5",
+    "version": "1.0.0",
+    "displayName": "YOLO v5",
+    "description": "YOLO v5 realtime object detection in Unity Engine.",
+    "unity": "2021.2",
+    "dependencies": {
+        "ai.natml.natml": "1.0.19"
+    },
+    "keywords": [
+        "natml",
+        "machine learning",
+        "ml",
+        "aritificial intelligence",
+        "object detection",
+        "yolo"
+    ],
+    "author": {
+        "name": "NatML",
+        "email": "hi@natml.ai",
+        "url": "https://github.com/natmlx"
+    },
+    "license": "Apache-2.0",
+    "repository": "github:natml-hub/YOLO-v5"
+}
